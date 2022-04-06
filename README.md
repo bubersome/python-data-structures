@@ -1,6 +1,8 @@
 # python-data-structures
 This repository contains the code associated with the "Designing Data Structures in Python: Principles &amp; Practice" Safari Video
 
+https://learning.oreilly.com/videos/designing-data-structures/9781491928622/
+
 The order of the videos in the final short course is listed below
 
    1. Fundamentals
