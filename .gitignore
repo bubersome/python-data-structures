@@ -4,3 +4,5 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/python-data-structures.iml
 /.idea/vcs.xml
+.DS_Store
+*.pyc
