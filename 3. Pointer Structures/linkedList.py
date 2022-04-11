@@ -42,16 +42,16 @@ class LinkedList:
 
     def remove(self, value):
         """Remove value from list."""
-        n = self.head
+        nremove = self.head
         last = None
-        while n != None:
-            if n.value == value:
+        while nremove != None:
+            if nremove.value == value:
                 if last == None:
                     self.head = self.head.next
                 else:
-                    last.next = n.next
+                    last.next = nremove.next
                 return True
-            n = n.next
+            nremove = nremove.next
         return False
         
     def __iter__(self):

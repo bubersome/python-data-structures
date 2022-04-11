@@ -69,3 +69,14 @@ N	Dict    	LinkedList
 8192	1.001074	0.937343
 16384	1.988120	1.862958
 """
+"""
+/opt/homebrew/Caskroom/miniconda/base/envs/python-data-structures/bin/python "/Users/32uni/PycharmProjects/python-data-structures/3. Pointer Structures/timing.py"
+N	Dict    	LinkedList
+1024	0.025197	0.022898
+2048	0.051036	0.046284
+4096	0.103766	0.090600
+8192	0.200471	0.182523
+16384	0.397174	0.358916
+
+Process finished with exit code 0
+"""

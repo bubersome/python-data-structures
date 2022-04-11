@@ -31,7 +31,7 @@ class TestPrefixTrees(unittest.TestCase):
         
     def test_basic(self):
         """Basic test."""
-        words = [randomString(6) for _ in range(999)]
+        words = [randomString(6) for _ in range(9)]
 
         # make sure unique, just in case...
         uniq = []

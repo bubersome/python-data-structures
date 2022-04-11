@@ -115,3 +115,20 @@ vertices: 1026 edges: 31808
 
 """
 
+"""
+/opt/homebrew/Caskroom/miniconda/base/envs/python-data-structures/bin/python "/Users/32uni/PycharmProjects/python-data-structures/6. Graph Representation/timing.py"
+vertices: 6 edges: 8
+  AL benchmark-1.dat 0.0015449170023202896
+  AM benchmark-1.dat 0.001508291985373944
+vertices: 18 edges: 56
+  AL benchmark-2.dat 0.004852499987464398
+  AM benchmark-2.dat 0.0050905829994007945
+vertices: 66 edges: 464
+  AL benchmark-3.dat 0.0260949170042295
+  AM benchmark-3.dat 0.028095624991692603
+vertices: 1026 edges: 31808
+  AL benchmark-4.dat 0.9008035000006203
+  AM benchmark-4.dat 1.0826917910017073
+
+Process finished with exit code 0
+"""

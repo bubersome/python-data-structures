@@ -39,6 +39,11 @@ class TestLinkedList(unittest.TestCase):
         self.assertEqual(1, len(self.link))
         self.assertTrue(self.link.remove(99))
         self.assertEqual(0, len(self.link))
+        self.link.prepend(29)
+        self.link.prepend(21)
+        self.link.prepend(31)
+        self.link.remove(21)
+        self.link.prepend(32)
 
     def test_iterators(self):
         """Iterators"""

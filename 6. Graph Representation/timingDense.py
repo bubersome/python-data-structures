@@ -79,4 +79,18 @@ for idx in range(1, numEdges+1):
 Sample Output:
 
 
+/opt/homebrew/Caskroom/miniconda/base/envs/python-data-structures/bin/python "/Users/32uni/PycharmProjects/python-data-structures/6. Graph Representation/timingDense.py"
+  AL 256 0.6369392920169048
+  AM 256 0.9372570409905165
+  AL 512 2.5523861249967013
+  AM 512 3.8487402080208994
+  AL 1024 10.048079542000778
+  AM 1024 15.443164416996296
+  AL 2048 39.312547249981435
+  AM 2048 61.645085083990125
+  AL 4096 156.04366433399264
+  AM 4096 246.04819683299866
+  AL 8192 627.307337834005
+
+
 """
